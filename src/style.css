@@ -1,0 +1,143 @@
+/* Reset and base styles */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
+}
+
+/* Table styles */
+.invoice-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.invoice-title {
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.invoice-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.invoice-table th {
+  background: #f8f9fa;
+  padding: 12px 16px;
+  text-align: left;
+  font-size: 14px;
+  font-weight: 600;
+  color: #666;
+  border-bottom: 1px solid #e0e0e0;
+  text-transform: uppercase;
+}
+
+.invoice-table td {
+  padding: 12px 16px;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.invoice-table tr:hover {
+  background-color: #f8f9fa;
+}
+
+.invoice-row-expanded {
+  background-color: #f0f7ff;
+}
+
+.details-button {
+  color: #0066cc;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 4px 8px;
+  font-size: 14px;
+}
+
+.details-button:hover {
+  text-decoration: underline;
+}
+
+/* Filter styles */
+.filter-container {
+  margin-bottom: 20px;
+}
+
+.filter-input {
+  width: 100%;
+  max-width: 300px;
+  padding: 8px 12px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.filter-input:focus {
+  outline: none;
+  border-color: #0066cc;
+  box-shadow: 0 0 0 2px rgba(0, 102, 204, 0.1);
+}
+
+/* Spinner styles */
+.spinner-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.spinner {
+  border: 3px solid #f3f3f3;
+  border-top: 3px solid #0066cc;
+  border-radius: 50%;
+  width: 24px;
+  height: 24px;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Invoice lines table styles */
+.invoice-lines-table {
+  width: 100%;
+  font-size: 14px;
+  margin-top: 8px;
+}
+
+.invoice-lines-table th {
+  font-weight: 600;
+  color: #666;
+  padding: 8px;
+  background: #f8f9fa;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.invoice-lines-table td {
+  padding: 8px;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.invoice-lines-table th[align="right"],
+.invoice-lines-table td[align="right"] {
+  text-align: right;
+}
+
+.invoice-lines-empty {
+  color: #666;
+  padding: 16px;
+  text-align: center;
+  font-style: italic;
+}

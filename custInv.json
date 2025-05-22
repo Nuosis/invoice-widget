@@ -1,0 +1,8126 @@
+{
+	"QueryResponse" : 
+	{
+		"Invoice" : 
+		[
+			{
+				"CustomerRef" : 
+				{
+					"name" : "Rosario de Guzman",
+					"value" : "355"
+				},
+				"Id" : "5657",
+				"Line" : 
+				[
+					{
+						"Amount" : 100.0,
+						"Description" : "Rosario de Guzman Admin Fee",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "1",
+						"LineNum" : 1,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Admin Fee Income",
+								"value" : "33"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 100
+						}
+					},
+					{
+						"Amount" : 29.0,
+						"Description" : "Rosario de Guzman Insurance Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "3",
+						"LineNum" : 2,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 29
+						}
+					},
+					{
+						"Amount" : 129.0,
+						"DetailType" : "SubTotalLineDetail",
+						"SubTotalLineDetail" : {}
+					}
+				],
+				"LinkedTxn" : [],
+				"ShipAddr" : 
+				{
+					"Id" : "413"
+				},
+				"TxnDate" : "2025-05-01",
+				"TxnTaxDetail" : 
+				{
+					"TotalTax" : 5.0
+				},
+				"sparse" : true
+			},
+			{
+				"BillAddr" : 
+				{
+					"Id" : "1521"
+				},
+				"CustomerRef" : 
+				{
+					"name" : "Philstar Janitorial Services",
+					"value" : "450"
+				},
+				"Id" : "5656",
+				"Line" : 
+				[
+					{
+						"Amount" : 100.0,
+						"Description" : "Philstar Janitorial Services  Admin Fee",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "1",
+						"LineNum" : 1,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Admin Fee Income",
+								"value" : "33"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 100
+						}
+					},
+					{
+						"Amount" : 29.0,
+						"Description" : "Philstar Janitorial Services  Insurance Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "3",
+						"LineNum" : 2,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 29
+						}
+					},
+					{
+						"Amount" : 129.0,
+						"DetailType" : "SubTotalLineDetail",
+						"SubTotalLineDetail" : {}
+					}
+				],
+				"LinkedTxn" : [],
+				"TxnDate" : "2025-05-01",
+				"TxnTaxDetail" : 
+				{
+					"TotalTax" : 5.0
+				},
+				"sparse" : true
+			},
+			{
+				"CustomerRef" : 
+				{
+					"name" : "Lee Fairbairn",
+					"value" : "353"
+				},
+				"Id" : "5655",
+				"Line" : 
+				[
+					{
+						"Amount" : 80.0,
+						"Description" : "Lee Fairbairn Admin Fee",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "1",
+						"LineNum" : 1,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Admin Fee Income",
+								"value" : "33"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 80
+						}
+					},
+					{
+						"Amount" : 43.47,
+						"Description" : "Lee Fairbairn additional GST savings Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "3",
+						"LineNum" : 2,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 43.47
+						}
+					},
+					{
+						"Amount" : 29.0,
+						"Description" : "Lee Fairbairn Insurance Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "4",
+						"LineNum" : 3,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 29
+						}
+					},
+					{
+						"Amount" : 37.27,
+						"Description" : "Lee Fairbairn GST Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "5",
+						"LineNum" : 4,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 37.2734
+						}
+					},
+					{
+						"Amount" : 189.74,
+						"DetailType" : "SubTotalLineDetail",
+						"SubTotalLineDetail" : {}
+					}
+				],
+				"LinkedTxn" : [],
+				"ShipAddr" : 
+				{
+					"Id" : "411"
+				},
+				"TxnDate" : "2025-05-01",
+				"TxnTaxDetail" : 
+				{
+					"TotalTax" : 4.0
+				},
+				"sparse" : true
+			},
+			{
+				"BillAddr" : 
+				{
+					"Id" : "451"
+				},
+				"CustomerRef" : 
+				{
+					"name" : "Katlynn Kowalchuk",
+					"value" : "352"
+				},
+				"Id" : "5654",
+				"Line" : 
+				[
+					{
+						"Amount" : 80.0,
+						"Description" : "Katlynn Kowalchuk Admin Fee",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "1",
+						"LineNum" : 1,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Admin Fee Income",
+								"value" : "33"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 80
+						}
+					},
+					{
+						"Amount" : 130.0,
+						"Description" : "Katlynn Kowalchuk Year End Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "3",
+						"LineNum" : 2,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 130
+						}
+					},
+					{
+						"Amount" : 20.0,
+						"Description" : "Katlynn Kowalchuk WCB Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "4",
+						"LineNum" : 3,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 20
+						}
+					},
+					{
+						"Amount" : 29.0,
+						"Description" : "Katlynn Kowalchuk Insurance Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "5",
+						"LineNum" : 4,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 29
+						}
+					},
+					{
+						"Amount" : 32.6,
+						"Description" : "Katlynn Kowalchuk GST Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "6",
+						"LineNum" : 5,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 32.598
+						}
+					},
+					{
+						"Amount" : 9.0,
+						"Description" : "Katlynn Kowalchuk Business License Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "7",
+						"LineNum" : 6,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 9
+						}
+					},
+					{
+						"Amount" : 4.0,
+						"Description" : "Katlynn Kowalchuk Annual Report Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "8",
+						"LineNum" : 7,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 4
+						}
+					},
+					{
+						"Amount" : 304.6,
+						"DetailType" : "SubTotalLineDetail",
+						"SubTotalLineDetail" : {}
+					}
+				],
+				"LinkedTxn" : [],
+				"ShipAddr" : 
+				{
+					"Id" : "452"
+				},
+				"TxnDate" : "2025-05-01",
+				"TxnTaxDetail" : 
+				{
+					"TotalTax" : 4.0
+				},
+				"sparse" : true
+			},
+			{
+				"CustomerRef" : 
+				{
+					"name" : "Julius Birung",
+					"value" : "351"
+				},
+				"Id" : "5653",
+				"Line" : 
+				[
+					{
+						"Amount" : 100.0,
+						"Description" : "Julius Birung Admin Fee",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "1",
+						"LineNum" : 1,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Admin Fee Income",
+								"value" : "33"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 100
+						}
+					},
+					{
+						"Amount" : 29.0,
+						"Description" : "Julius Birung Insurance Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "3",
+						"LineNum" : 2,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 29
+						}
+					},
+					{
+						"Amount" : 129.0,
+						"DetailType" : "SubTotalLineDetail",
+						"SubTotalLineDetail" : {}
+					}
+				],
+				"LinkedTxn" : [],
+				"TxnDate" : "2025-05-01",
+				"TxnTaxDetail" : 
+				{
+					"TotalTax" : 5.0
+				},
+				"sparse" : true
+			},
+			{
+				"CustomerRef" : 
+				{
+					"name" : "Jowel Santos",
+					"value" : "350"
+				},
+				"Id" : "5652",
+				"Line" : 
+				[
+					{
+						"Amount" : 80.0,
+						"Description" : "Jowel Santos Admin Fee",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "1",
+						"LineNum" : 1,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Admin Fee Income",
+								"value" : "33"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 80
+						}
+					},
+					{
+						"Amount" : 29.0,
+						"Description" : "Jowel Santos Insurance Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "3",
+						"LineNum" : 2,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 29
+						}
+					},
+					{
+						"Amount" : 109.0,
+						"DetailType" : "SubTotalLineDetail",
+						"SubTotalLineDetail" : {}
+					}
+				],
+				"LinkedTxn" : [],
+				"ShipAddr" : 
+				{
+					"Id" : "409"
+				},
+				"TxnDate" : "2025-05-01",
+				"TxnTaxDetail" : 
+				{
+					"TotalTax" : 4.0
+				},
+				"sparse" : true
+			},
+			{
+				"BillAddr" : 
+				{
+					"Id" : "408"
+				},
+				"CustomerRef" : 
+				{
+					"name" : "Jovita Pugongan",
+					"value" : "349"
+				},
+				"Id" : "5651",
+				"Line" : 
+				[
+					{
+						"Amount" : 100.0,
+						"Description" : "Jovita Pugongan Admin Fee",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "1",
+						"LineNum" : 1,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Admin Fee Income",
+								"value" : "33"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 100
+						}
+					},
+					{
+						"Amount" : 29.0,
+						"Description" : "Jovita Pugongan Insurance Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "3",
+						"LineNum" : 2,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 29
+						}
+					},
+					{
+						"Amount" : 129.0,
+						"DetailType" : "SubTotalLineDetail",
+						"SubTotalLineDetail" : {}
+					}
+				],
+				"LinkedTxn" : [],
+				"TxnDate" : "2025-05-01",
+				"TxnTaxDetail" : 
+				{
+					"TotalTax" : 5.0
+				},
+				"sparse" : true
+			},
+			{
+				"BillAddr" : 
+				{
+					"Id" : "915"
+				},
+				"CustomerRef" : 
+				{
+					"name" : "Joseph Vagay",
+					"value" : "399"
+				},
+				"Id" : "5650",
+				"Line" : 
+				[
+					{
+						"Amount" : 100.0,
+						"Description" : "Joseph Vagay Admin Fee",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "1",
+						"LineNum" : 1,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Admin Fee Income",
+								"value" : "33"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 100
+						}
+					},
+					{
+						"Amount" : 29.0,
+						"Description" : "Joseph Vagay Insurance Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "3",
+						"LineNum" : 2,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 29
+						}
+					},
+					{
+						"Amount" : 129.0,
+						"DetailType" : "SubTotalLineDetail",
+						"SubTotalLineDetail" : {}
+					}
+				],
+				"LinkedTxn" : [],
+				"ShipAddr" : 
+				{
+					"Id" : "915"
+				},
+				"TxnDate" : "2025-05-01",
+				"TxnTaxDetail" : 
+				{
+					"TotalTax" : 5.0
+				},
+				"sparse" : true
+			},
+			{
+				"CustomerRef" : 
+				{
+					"name" : "Jonathan Addon",
+					"value" : "348"
+				},
+				"Id" : "5649",
+				"Line" : 
+				[
+					{
+						"Amount" : 80.0,
+						"Description" : "Jonathan Addon Admin Fee",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "1",
+						"LineNum" : 1,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Admin Fee Income",
+								"value" : "33"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 80
+						}
+					},
+					{
+						"Amount" : 29.0,
+						"Description" : "Jonathan Addon Insurance Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "3",
+						"LineNum" : 2,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 29
+						}
+					},
+					{
+						"Amount" : 48.81,
+						"Description" : "Jonathan Addon Annual Report Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "4",
+						"LineNum" : 3,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 48.81
+						}
+					},
+					{
+						"Amount" : 157.81,
+						"DetailType" : "SubTotalLineDetail",
+						"SubTotalLineDetail" : {}
+					}
+				],
+				"LinkedTxn" : [],
+				"ShipAddr" : 
+				{
+					"Id" : "407"
+				},
+				"TxnDate" : "2025-05-01",
+				"TxnTaxDetail" : 
+				{
+					"TotalTax" : 4.0
+				},
+				"sparse" : true
+			},
+			{
+				"CustomerRef" : 
+				{
+					"name" : "Joel Guino",
+					"value" : "347"
+				},
+				"Id" : "5648",
+				"Line" : 
+				[
+					{
+						"Amount" : 80.0,
+						"Description" : "Joel Guino Admin Fee",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "1",
+						"LineNum" : 1,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Admin Fee Income",
+								"value" : "33"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 80
+						}
+					},
+					{
+						"Amount" : 29.0,
+						"Description" : "Joel Guino Insurance Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "3",
+						"LineNum" : 2,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 29
+						}
+					},
+					{
+						"Amount" : 109.0,
+						"DetailType" : "SubTotalLineDetail",
+						"SubTotalLineDetail" : {}
+					}
+				],
+				"LinkedTxn" : [],
+				"ShipAddr" : 
+				{
+					"Id" : "406"
+				},
+				"TxnDate" : "2025-05-01",
+				"TxnTaxDetail" : 
+				{
+					"TotalTax" : 4.0
+				},
+				"sparse" : true
+			},
+			{
+				"BillAddr" : 
+				{
+					"Id" : "468"
+				},
+				"CustomerRef" : 
+				{
+					"name" : "Jimmy Aquino",
+					"value" : "346"
+				},
+				"Id" : "5647",
+				"Line" : 
+				[
+					{
+						"Amount" : 100.0,
+						"Description" : "Jimmy Aquino Admin Fee",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "1",
+						"LineNum" : 1,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Admin Fee Income",
+								"value" : "33"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 100
+						}
+					},
+					{
+						"Amount" : 29.0,
+						"Description" : "Jimmy Aquino Insurance Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "3",
+						"LineNum" : 2,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 29
+						}
+					},
+					{
+						"Amount" : 129.0,
+						"DetailType" : "SubTotalLineDetail",
+						"SubTotalLineDetail" : {}
+					}
+				],
+				"LinkedTxn" : [],
+				"ShipAddr" : 
+				{
+					"Id" : "469"
+				},
+				"TxnDate" : "2025-05-01",
+				"TxnTaxDetail" : 
+				{
+					"TotalTax" : 5.0
+				},
+				"sparse" : true
+			},
+			{
+				"CustomerRef" : 
+				{
+					"name" : "JB Boy",
+					"value" : "345"
+				},
+				"Id" : "5646",
+				"Line" : 
+				[
+					{
+						"Amount" : 100.0,
+						"Description" : "JB Boy Admin Fee",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "1",
+						"LineNum" : 1,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Admin Fee Income",
+								"value" : "33"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 100
+						}
+					},
+					{
+						"Amount" : 88.92,
+						"Description" : "JB Boy Finder's Fee for H&R Block (Tax Season 51284 104 - 2244 Sooke Rd)",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "3",
+						"LineNum" : 2,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Finders Fees Income",
+								"value" : "27"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 88.92
+						}
+					},
+					{
+						"Amount" : 88.92,
+						"Description" : "JB Boy Finder's Fee for H&R Block (Tax Season 50828 F103-3551 Blanshard St.)",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "4",
+						"LineNum" : 3,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Finders Fees Income",
+								"value" : "27"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 88.92
+						}
+					},
+					{
+						"Amount" : 173.68,
+						"Description" : "JB Boy Finder's Fee for H&R Block (Tax Season 51270 1581 Hillside Ave)",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "5",
+						"LineNum" : 4,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Finders Fees Income",
+								"value" : "27"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 173.68
+						}
+					},
+					{
+						"Amount" : 280.98,
+						"Description" : "JB Boy Finder's Fee for H&R Block (Tax Season 50826 2001 Douglas St)",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "6",
+						"LineNum" : 5,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Finders Fees Income",
+								"value" : "27"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 280.984
+						}
+					},
+					{
+						"Amount" : 44.46,
+						"Description" : "JB Boy Finder's Fee for H&R Block (Off Season 51270 1581 Hillside)",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "7",
+						"LineNum" : 6,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Finders Fees Income",
+								"value" : "27"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 44.464
+						}
+					},
+					{
+						"Amount" : 29.0,
+						"Description" : "JB Boy Insurance Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "8",
+						"LineNum" : 7,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 29
+						}
+					},
+					{
+						"Amount" : 805.96,
+						"DetailType" : "SubTotalLineDetail",
+						"SubTotalLineDetail" : {}
+					}
+				],
+				"LinkedTxn" : [],
+				"ShipAddr" : 
+				{
+					"Id" : "404"
+				},
+				"TxnDate" : "2025-05-01",
+				"TxnTaxDetail" : 
+				{
+					"TotalTax" : 5.0
+				},
+				"sparse" : true
+			},
+			{
+				"BillAddr" : 
+				{
+					"Id" : "1057"
+				},
+				"CustomerRef" : 
+				{
+					"name" : "Jaime Balbin",
+					"value" : "417"
+				},
+				"Id" : "5644",
+				"Line" : 
+				[
+					{
+						"Amount" : 100.0,
+						"Description" : "Jaime Balbin Admin Fee",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "1",
+						"LineNum" : 1,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Admin Fee Income",
+								"value" : "33"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 100
+						}
+					},
+					{
+						"Amount" : 100.0,
+						"DetailType" : "SubTotalLineDetail",
+						"SubTotalLineDetail" : {}
+					}
+				],
+				"LinkedTxn" : [],
+				"ShipAddr" : 
+				{
+					"Id" : "1057"
+				},
+				"TxnDate" : "2025-05-01",
+				"TxnTaxDetail" : 
+				{
+					"TotalTax" : 5.0
+				},
+				"sparse" : true
+			},
+			{
+				"CustomerRef" : 
+				{
+					"name" : "Hubert Baquel",
+					"value" : "344"
+				},
+				"Id" : "5643",
+				"Line" : 
+				[
+					{
+						"Amount" : 80.0,
+						"Description" : "Hubert Baquel Admin Fee",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "1",
+						"LineNum" : 1,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Admin Fee Income",
+								"value" : "33"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 80
+						}
+					},
+					{
+						"Amount" : 512.0,
+						"Description" : "Hubert Baquel Finder's Fee for Tsawout Wellness Dept. (7725)",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "3",
+						"LineNum" : 2,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Finders Fees Income",
+								"value" : "27"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 512
+						}
+					},
+					{
+						"Amount" : 89.44,
+						"Description" : "Hubert Baquel Finder's Fee for H&R Block (Tax Season 51195 E9711 5th St Sidney)",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "4",
+						"LineNum" : 3,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Finders Fees Income",
+								"value" : "27"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 89.44
+						}
+					},
+					{
+						"Amount" : 217.1,
+						"Description" : "Hubert Baquel Finder's Fee for Tsawout Wellness Dept. (off day touch up)",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "5",
+						"LineNum" : 4,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Finders Fees Income",
+								"value" : "27"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 217.096
+						}
+					},
+					{
+						"Amount" : 898.54,
+						"DetailType" : "SubTotalLineDetail",
+						"SubTotalLineDetail" : {}
+					}
+				],
+				"LinkedTxn" : [],
+				"ShipAddr" : 
+				{
+					"Id" : "403"
+				},
+				"TxnDate" : "2025-05-01",
+				"TxnTaxDetail" : 
+				{
+					"TotalTax" : 4.0
+				},
+				"sparse" : true
+			},
+			{
+				"CustomerRef" : 
+				{
+					"name" : "Grace Soriano",
+					"value" : "343"
+				},
+				"Id" : "5641",
+				"Line" : 
+				[
+					{
+						"Amount" : 80.0,
+						"Description" : "Grace Soriano Admin Fee",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "1",
+						"LineNum" : 1,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Admin Fee Income",
+								"value" : "33"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 80
+						}
+					},
+					{
+						"Amount" : 80.0,
+						"DetailType" : "SubTotalLineDetail",
+						"SubTotalLineDetail" : {}
+					}
+				],
+				"LinkedTxn" : [],
+				"TxnDate" : "2025-05-01",
+				"TxnTaxDetail" : 
+				{
+					"TotalTax" : 4.0
+				},
+				"sparse" : true
+			},
+			{
+				"CustomerRef" : 
+				{
+					"name" : "Federico Sarmiento",
+					"value" : "341"
+				},
+				"Id" : "5638",
+				"Line" : 
+				[
+					{
+						"Amount" : 80.0,
+						"Description" : "Federico Sarmiento Admin Fee",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "1",
+						"LineNum" : 1,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Admin Fee Income",
+								"value" : "33"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 80
+						}
+					},
+					{
+						"Amount" : 29.0,
+						"Description" : "Federico Sarmiento Insurance Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "3",
+						"LineNum" : 2,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 29
+						}
+					},
+					{
+						"Amount" : 75.51,
+						"Description" : "Federico Sarmiento GST Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "4",
+						"LineNum" : 3,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 75.5074
+						}
+					},
+					{
+						"Amount" : 4.0,
+						"Description" : "Federico Sarmiento Annual Report Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "5",
+						"LineNum" : 4,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 4
+						}
+					},
+					{
+						"Amount" : 188.51,
+						"DetailType" : "SubTotalLineDetail",
+						"SubTotalLineDetail" : {}
+					}
+				],
+				"LinkedTxn" : [],
+				"ShipAddr" : 
+				{
+					"Id" : "400"
+				},
+				"TxnDate" : "2025-05-01",
+				"TxnTaxDetail" : 
+				{
+					"TotalTax" : 4.0
+				},
+				"sparse" : true
+			},
+			{
+				"CustomerRef" : 
+				{
+					"name" : "Eric Pelser",
+					"value" : "340"
+				},
+				"Id" : "5637",
+				"Line" : 
+				[
+					{
+						"Amount" : 23.15,
+						"Description" : "Eric Pelser Admin Fee",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "1",
+						"LineNum" : 1,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Admin Fee Income",
+								"value" : "33"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 23.15
+						}
+					},
+					{
+						"Amount" : 83.91,
+						"Description" : "Eric Pelser GST Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "3",
+						"LineNum" : 2,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 83.9084
+						}
+					},
+					{
+						"Amount" : 107.06,
+						"DetailType" : "SubTotalLineDetail",
+						"SubTotalLineDetail" : {}
+					}
+				],
+				"LinkedTxn" : [],
+				"ShipAddr" : 
+				{
+					"Id" : "399"
+				},
+				"TxnDate" : "2025-05-01",
+				"TxnTaxDetail" : 
+				{
+					"TotalTax" : 1.16
+				},
+				"sparse" : true
+			},
+			{
+				"CustomerRef" : 
+				{
+					"name" : "Dritan Pashaj",
+					"value" : "338"
+				},
+				"Id" : "5635",
+				"Line" : 
+				[
+					{
+						"Amount" : 80.0,
+						"Description" : "Dritan Pashaj Admin Fee",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "1",
+						"LineNum" : 1,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Admin Fee Income",
+								"value" : "33"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 80
+						}
+					},
+					{
+						"Amount" : 29.0,
+						"Description" : "Dritan Pashaj Insurance Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "3",
+						"LineNum" : 2,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 29
+						}
+					},
+					{
+						"Amount" : 9.0,
+						"Description" : "Dritan Pashaj Business License Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "4",
+						"LineNum" : 3,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 9
+						}
+					},
+					{
+						"Amount" : 4.0,
+						"Description" : "Dritan Pashaj Annual Report Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "5",
+						"LineNum" : 4,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 4
+						}
+					},
+					{
+						"Amount" : 122.0,
+						"DetailType" : "SubTotalLineDetail",
+						"SubTotalLineDetail" : {}
+					}
+				],
+				"LinkedTxn" : [],
+				"ShipAddr" : 
+				{
+					"Id" : "397"
+				},
+				"TxnDate" : "2025-05-01",
+				"TxnTaxDetail" : 
+				{
+					"TotalTax" : 4.0
+				},
+				"sparse" : true
+			},
+			{
+				"BillAddr" : 
+				{
+					"Id" : "1519"
+				},
+				"CustomerRef" : 
+				{
+					"name" : "Category 1 Cleaning",
+					"value" : "326"
+				},
+				"Id" : "5632",
+				"Line" : 
+				[
+					{
+						"Amount" : 1500.0,
+						"Description" : "Cordova Bay Strata on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "1",
+						"LineNum" : 1,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 1500
+						}
+					},
+					{
+						"Amount" : 1500.0,
+						"DetailType" : "SubTotalLineDetail",
+						"SubTotalLineDetail" : {}
+					}
+				],
+				"LinkedTxn" : [],
+				"ShipAddr" : 
+				{
+					"Id" : "1838"
+				},
+				"TxnDate" : "2025-05-01",
+				"TxnTaxDetail" : 
+				{
+					"TotalTax" : 75.0
+				},
+				"sparse" : true
+			},
+			{
+				"CustomerRef" : 
+				{
+					"name" : "Chris Petley",
+					"value" : "335"
+				},
+				"Id" : "5627",
+				"Line" : 
+				[
+					{
+						"Amount" : 25.0,
+						"Description" : "Chris Petley Admin Fee",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "1",
+						"LineNum" : 1,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Admin Fee Income",
+								"value" : "33"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 25
+						}
+					},
+					{
+						"Amount" : 25.0,
+						"DetailType" : "SubTotalLineDetail",
+						"SubTotalLineDetail" : {}
+					}
+				],
+				"LinkedTxn" : [],
+				"ShipAddr" : 
+				{
+					"Id" : "395"
+				},
+				"TxnDate" : "2025-05-01",
+				"TxnTaxDetail" : 
+				{
+					"TotalTax" : 1.25
+				},
+				"sparse" : true
+			},
+			{
+				"CustomerRef" : 
+				{
+					"name" : "Chris Johnston",
+					"value" : "334"
+				},
+				"Id" : "5626",
+				"Line" : 
+				[
+					{
+						"Amount" : 80.0,
+						"Description" : "Chris Johnston Admin Fee",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "1",
+						"LineNum" : 1,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Admin Fee Income",
+								"value" : "33"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 80
+						}
+					},
+					{
+						"Amount" : 140.0,
+						"Description" : "Chris Johnston Year End Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "3",
+						"LineNum" : 2,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 140
+						}
+					},
+					{
+						"Amount" : 25.0,
+						"Description" : "Chris Johnston WCB Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "4",
+						"LineNum" : 3,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 25
+						}
+					},
+					{
+						"Amount" : 143.8,
+						"Description" : "Chris Johnston Source Deductions Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "5",
+						"LineNum" : 4,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 143.8
+						}
+					},
+					{
+						"Amount" : 29.0,
+						"Description" : "Chris Johnston Insurance Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "6",
+						"LineNum" : 5,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 29
+						}
+					},
+					{
+						"Amount" : 161.58,
+						"Description" : "Chris Johnston GST Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "7",
+						"LineNum" : 6,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 161.5757
+						}
+					},
+					{
+						"Amount" : 9.0,
+						"Description" : "Chris Johnston Business License Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "8",
+						"LineNum" : 7,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 9
+						}
+					},
+					{
+						"Amount" : 35.0,
+						"Description" : "Chris Johnston Annual Report Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "9",
+						"LineNum" : 8,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 35
+						}
+					},
+					{
+						"Amount" : 623.38,
+						"DetailType" : "SubTotalLineDetail",
+						"SubTotalLineDetail" : {}
+					}
+				],
+				"LinkedTxn" : [],
+				"ShipAddr" : 
+				{
+					"Id" : "394"
+				},
+				"TxnDate" : "2025-05-01",
+				"TxnTaxDetail" : 
+				{
+					"TotalTax" : 4.0
+				},
+				"sparse" : true
+			},
+			{
+				"CustomerRef" : 
+				{
+					"name" : "Che Robert Nacionales",
+					"value" : "333"
+				},
+				"Id" : "5625",
+				"Line" : 
+				[
+					{
+						"Amount" : 80.0,
+						"Description" : "Che Robert Nacionales Admin Fee",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "1",
+						"LineNum" : 1,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Admin Fee Income",
+								"value" : "33"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 80
+						}
+					},
+					{
+						"Amount" : 31.5,
+						"Description" : "Che Robert Nacionales Annual Report Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "3",
+						"LineNum" : 2,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 31.5
+						}
+					},
+					{
+						"Amount" : 111.5,
+						"DetailType" : "SubTotalLineDetail",
+						"SubTotalLineDetail" : {}
+					}
+				],
+				"LinkedTxn" : [],
+				"ShipAddr" : 
+				{
+					"Id" : "393"
+				},
+				"TxnDate" : "2025-05-01",
+				"TxnTaxDetail" : 
+				{
+					"TotalTax" : 4.0
+				},
+				"sparse" : true
+			},
+			{
+				"CustomerRef" : 
+				{
+					"name" : "Cassandra Paris",
+					"value" : "332"
+				},
+				"Id" : "5624",
+				"Line" : 
+				[
+					{
+						"Amount" : 80.0,
+						"Description" : "Cassandra Paris Admin Fee",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "1",
+						"LineNum" : 1,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Admin Fee Income",
+								"value" : "33"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 80
+						}
+					},
+					{
+						"Amount" : 162.82,
+						"Description" : "Cassandra Paris Finder's Fee for Brown Bros Windsor Park House (General Janitorial)",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "3",
+						"LineNum" : 2,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Finders Fees Income",
+								"value" : "27"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 162.824
+						}
+					},
+					{
+						"Amount" : 150.0,
+						"Description" : "Cassandra Paris Year End Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "4",
+						"LineNum" : 3,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 150
+						}
+					},
+					{
+						"Amount" : 92.93,
+						"Description" : "Cassandra Paris WCB Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "5",
+						"LineNum" : 4,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 92.93
+						}
+					},
+					{
+						"Amount" : 80.0,
+						"Description" : "Cassandra Paris Extra GST withholdings Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "6",
+						"LineNum" : 5,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 80
+						}
+					},
+					{
+						"Amount" : 308.0,
+						"Description" : "Cassandra Paris GST Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "7",
+						"LineNum" : 6,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 308.0001
+						}
+					},
+					{
+						"Amount" : 35.0,
+						"Description" : "Cassandra Paris Annual Report Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "8",
+						"LineNum" : 7,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 35
+						}
+					},
+					{
+						"Amount" : 908.75,
+						"DetailType" : "SubTotalLineDetail",
+						"SubTotalLineDetail" : {}
+					}
+				],
+				"LinkedTxn" : [],
+				"ShipAddr" : 
+				{
+					"Id" : "392"
+				},
+				"TxnDate" : "2025-05-01",
+				"TxnTaxDetail" : 
+				{
+					"TotalTax" : 4.0
+				},
+				"sparse" : true
+			},
+			{
+				"CustomerRef" : 
+				{
+					"name" : "Aymen Al Sultan",
+					"value" : "331"
+				},
+				"Id" : "5617",
+				"Line" : 
+				[
+					{
+						"Amount" : 100.0,
+						"Description" : "Aymen Al Sultan Admin Fee",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "1",
+						"LineNum" : 1,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Admin Fee Income",
+								"value" : "33"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 100
+						}
+					},
+					{
+						"Amount" : 119.68,
+						"Description" : "Aymen Al Sultan Payment Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "3",
+						"LineNum" : 2,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 119.68
+						}
+					},
+					{
+						"Amount" : 29.0,
+						"Description" : "Aymen Al Sultan Insurance Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "4",
+						"LineNum" : 3,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 29
+						}
+					},
+					{
+						"Amount" : 248.68,
+						"DetailType" : "SubTotalLineDetail",
+						"SubTotalLineDetail" : {}
+					}
+				],
+				"LinkedTxn" : [],
+				"ShipAddr" : 
+				{
+					"Id" : "390"
+				},
+				"TxnDate" : "2025-05-01",
+				"TxnTaxDetail" : 
+				{
+					"TotalTax" : 5.0
+				},
+				"sparse" : true
+			},
+			{
+				"BillAddr" : 
+				{
+					"Id" : "357"
+				},
+				"CustomerRef" : 
+				{
+					"name" : "Audie Torrado",
+					"value" : "329"
+				},
+				"Id" : "5616",
+				"Line" : 
+				[
+					{
+						"Amount" : 100.0,
+						"Description" : "Audie Torrado Admin Fee",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "1",
+						"LineNum" : 1,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Admin Fee Income",
+								"value" : "33"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 100
+						}
+					},
+					{
+						"Amount" : 29.0,
+						"Description" : "Audie Torrado Insurance Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "3",
+						"LineNum" : 2,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 29
+						}
+					},
+					{
+						"Amount" : 129.0,
+						"DetailType" : "SubTotalLineDetail",
+						"SubTotalLineDetail" : {}
+					}
+				],
+				"LinkedTxn" : [],
+				"ShipAddr" : 
+				{
+					"Id" : "357"
+				},
+				"TxnDate" : "2025-05-01",
+				"TxnTaxDetail" : 
+				{
+					"TotalTax" : 5.0
+				},
+				"sparse" : true
+			},
+			{
+				"BillAddr" : 
+				{
+					"Id" : "495"
+				},
+				"CustomerRef" : 
+				{
+					"name" : "Aiza Perez",
+					"value" : "330"
+				},
+				"Id" : "5610",
+				"Line" : 
+				[
+					{
+						"Amount" : 100.0,
+						"Description" : "Aiza Perez Admin Fee",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "1",
+						"LineNum" : 1,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Admin Fee Income",
+								"value" : "33"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 100
+						}
+					},
+					{
+						"Amount" : 29.0,
+						"Description" : "Aiza Perez Insurance Withholdings",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "3",
+						"LineNum" : 2,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Cleaner Withholdings Account",
+								"value" : "39"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "6"
+							},
+							"UnitPrice" : 29
+						}
+					},
+					{
+						"Amount" : 129.0,
+						"DetailType" : "SubTotalLineDetail",
+						"SubTotalLineDetail" : {}
+					}
+				],
+				"LinkedTxn" : [],
+				"ShipAddr" : 
+				{
+					"Id" : "496"
+				},
+				"TxnDate" : "2025-05-01",
+				"TxnTaxDetail" : 
+				{
+					"TotalTax" : 5.0
+				},
+				"sparse" : true
+			},
+			{
+				"BillAddr" : 
+				{
+					"Id" : "323"
+				},
+				"CustomerRef" : 
+				{
+					"name" : "Select Janitorial Inc.",
+					"value" : "42"
+				},
+				"Id" : "5605",
+				"Line" : 
+				[
+					{
+						"Amount" : 168.85,
+						"Description" : "Aftermath Holdings Ltd on WS Revised common areas",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "4",
+						"LineNum" : 1,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 168.85
+						}
+					},
+					{
+						"Amount" : 24.9,
+						"Description" : "AirLiquide Canada Inc on WS Scrub & Recoat",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "5",
+						"LineNum" : 2,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Periodic Clean:Periodic Clean Sales",
+								"value" : "11"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 24.9
+						}
+					},
+					{
+						"Amount" : 11.29,
+						"Description" : "AirLiquide Canada Inc on WS Burnishing",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "6",
+						"LineNum" : 3,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Periodic Clean:Periodic Clean Sales",
+								"value" : "11"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 11.29
+						}
+					},
+					{
+						"Amount" : 271.76,
+						"Description" : "AirLiquide Canada Inc on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "7",
+						"LineNum" : 4,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 271.76
+						}
+					},
+					{
+						"Amount" : 177.84,
+						"Description" : "Alzheimers Society of BC on WS On Ramp",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "8",
+						"LineNum" : 5,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 177.84
+						}
+					},
+					{
+						"Amount" : 449.51,
+						"Description" : "AME Group on WS Revised 2023",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "9",
+						"LineNum" : 6,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 449.51
+						}
+					},
+					{
+						"Amount" : 886.79,
+						"Description" : "AML Oceanographics on WS Revised 2023",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "10",
+						"LineNum" : 7,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 886.79
+						}
+					},
+					{
+						"Amount" : 405.25,
+						"Description" : "Analogue Projects on WS 575 Marfield",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "11",
+						"LineNum" : 8,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 405.25
+						}
+					},
+					{
+						"Amount" : 405.25,
+						"Description" : "Analogue Projects on WS 1030 Linden",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "12",
+						"LineNum" : 9,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 405.25
+						}
+					},
+					{
+						"Amount" : 405.25,
+						"Description" : "Analogue Projects on WS 715 Vancouver St",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "13",
+						"LineNum" : 10,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 405.25
+						}
+					},
+					{
+						"Amount" : 712.5,
+						"Description" : "Analogue Projects on WS 505 Quadra",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "14",
+						"LineNum" : 11,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 712.5
+						}
+					},
+					{
+						"Amount" : 1032.43,
+						"Description" : "Arbutus Family Medicine on WS General Janitorial Revised",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "15",
+						"LineNum" : 12,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 1032.43
+						}
+					},
+					{
+						"Amount" : 271.38,
+						"Description" : "Artsee Eyewear on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "16",
+						"LineNum" : 13,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 271.38
+						}
+					},
+					{
+						"Amount" : 708.84,
+						"Description" : "Axis Insurance Managers Inc on WS General Janitorial 3 x week",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "17",
+						"LineNum" : 14,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 708.84
+						}
+					},
+					{
+						"Amount" : 199.52,
+						"Description" : "AY Victoria Realty Ltd on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "18",
+						"LineNum" : 15,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 199.52
+						}
+					},
+					{
+						"Amount" : 194.36,
+						"Description" : "Bartle Gibson Co LtdLangford on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "19",
+						"LineNum" : 16,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 194.36
+						}
+					},
+					{
+						"Amount" : 569.89,
+						"Description" : "Bauco Access Panel Solutions Inc on WS 834/835/859 Devonshire",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "20",
+						"LineNum" : 17,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 569.89
+						}
+					},
+					{
+						"Amount" : 403.15,
+						"Description" : "Bauco Access Panel Solutions Inc on WS 1075 Alston",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "21",
+						"LineNum" : 18,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 403.15
+						}
+					},
+					{
+						"Amount" : 176.64,
+						"Description" : "Becoming Design Office on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "22",
+						"LineNum" : 19,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 176.64
+						}
+					},
+					{
+						"Amount" : 533.52,
+						"Description" : "Birch Family Medicine Clinic on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "23",
+						"LineNum" : 20,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 533.52
+						}
+					},
+					{
+						"Amount" : 118.56,
+						"Description" : "Birch Family Medicine Clinic on WS Off Day Touch Up",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "24",
+						"LineNum" : 21,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 118.56
+						}
+					},
+					{
+						"Amount" : 865.7,
+						"Description" : "Bolen Books on WS Covid Revised",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "25",
+						"LineNum" : 22,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 865.7
+						}
+					},
+					{
+						"Amount" : 85.26,
+						"Description" : "Borden House Corp on WS Periodic 2021",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "26",
+						"LineNum" : 23,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Periodic Clean:Periodic Clean Sales",
+								"value" : "11"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 85.26
+						}
+					},
+					{
+						"Amount" : 2635.4,
+						"Description" : "Borden House Corp on WS Revised 2022",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "27",
+						"LineNum" : 24,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 2635.4
+						}
+					},
+					{
+						"Amount" : 271.37,
+						"Description" : "Brown Bros Windsor Park House on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "28",
+						"LineNum" : 25,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 271.37
+						}
+					},
+					{
+						"Amount" : 239.7,
+						"Description" : "Brown Brothers605 Cook St on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "29",
+						"LineNum" : 26,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 239.7
+						}
+					},
+					{
+						"Amount" : 436.91,
+						"Description" : "Brown BrothersBramlea Court on WS General Janitorial Once a Week",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "30",
+						"LineNum" : 27,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 436.91
+						}
+					},
+					{
+						"Amount" : 333.68,
+						"Description" : "Brown BrothersBriarwoodStrata #VIS 1043 on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "31",
+						"LineNum" : 28,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 333.68
+						}
+					},
+					{
+						"Amount" : 303.58,
+						"Description" : "Brown BrothersCedar Fair on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "32",
+						"LineNum" : 29,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 303.58
+						}
+					},
+					{
+						"Amount" : 271.38,
+						"Description" : "Campbell Construction Ltd on WS Revised 2023",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "33",
+						"LineNum" : 30,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 271.38
+						}
+					},
+					{
+						"Amount" : 163.4,
+						"Description" : "Century 21 Queenswood Realty Ltd2589 Penrhyn St on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "34",
+						"LineNum" : 31,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 163.4
+						}
+					},
+					{
+						"Amount" : 332.33,
+						"Description" : "Century 21 Queenswood Realty300 Michigan on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "35",
+						"LineNum" : 32,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 332.33
+						}
+					},
+					{
+						"Amount" : 230.0,
+						"Description" : "Ci2Group Inc on WS Revised 2021",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "36",
+						"LineNum" : 33,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 230
+						}
+					},
+					{
+						"Amount" : 467.27,
+						"Description" : "Citizens Counselling Centre on WS Revised 2020",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "37",
+						"LineNum" : 34,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 467.27
+						}
+					},
+					{
+						"Amount" : 24.94,
+						"Description" : "CityView on WS Periodic Tasks",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "38",
+						"LineNum" : 35,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Periodic Clean:Periodic Clean Sales",
+								"value" : "11"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 24.94
+						}
+					},
+					{
+						"Amount" : 658.13,
+						"Description" : "CityView on WS Oct 2021",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "39",
+						"LineNum" : 36,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 658.13
+						}
+					},
+					{
+						"Amount" : 183.18,
+						"Description" : "Clark & Pattison Ltd on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "40",
+						"LineNum" : 37,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 183.18
+						}
+					},
+					{
+						"Amount" : 215.9,
+						"Description" : "CNC Machining Ltd on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "41",
+						"LineNum" : 38,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 215.9
+						}
+					},
+					{
+						"Amount" : 48.17,
+						"Description" : "CNC Machining Ltd on WS Washrooms - Unit C",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "42",
+						"LineNum" : 39,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 48.17
+						}
+					},
+					{
+						"Amount" : 144.73,
+						"Description" : "Codename Entertainment on WS unit 11",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "43",
+						"LineNum" : 40,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Periodic Clean:Periodic Clean Sales",
+								"value" : "11"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 144.73
+						}
+					},
+					{
+						"Amount" : 163.18,
+						"Description" : "Codename Entertainment on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "44",
+						"LineNum" : 41,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 163.18
+						}
+					},
+					{
+						"Amount" : 71.64,
+						"Description" : "Codename Entertainment on WS Unit 8",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "45",
+						"LineNum" : 42,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 71.64
+						}
+					},
+					{
+						"Amount" : 175.12,
+						"Description" : "Codename Entertainment on WS Unit 7",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "46",
+						"LineNum" : 43,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 175.12
+						}
+					},
+					{
+						"Amount" : 109.32,
+						"Description" : "Coldstar Freight Systems Inc1005 Henry Eng Pl on WS Revised 2021",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "47",
+						"LineNum" : 44,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 109.32
+						}
+					},
+					{
+						"Amount" : 457.14,
+						"Description" : "Coldstar Freight Systems Inc1015 Henry Eng Pl on WS Revised 2021",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "48",
+						"LineNum" : 45,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 457.14
+						}
+					},
+					{
+						"Amount" : 188.82,
+						"Description" : "Coldstar Freight Systems Inc1035 Henry Eng Pl on WS Revised 2018",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "49",
+						"LineNum" : 46,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 188.82
+						}
+					},
+					{
+						"Amount" : 207.26,
+						"Description" : "Coldstar Freight Systems Ltd937 Dunford Ave on WS Unit 101",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "50",
+						"LineNum" : 47,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 207.26
+						}
+					},
+					{
+						"Amount" : 159.96,
+						"Description" : "Coldstar Freight Systems Ltd937 Dunford Ave on WS Unit 109",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "51",
+						"LineNum" : 48,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 159.96
+						}
+					},
+					{
+						"Amount" : 523.09,
+						"Description" : "Colyvan Pacific Hillshire (VIS283) on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "52",
+						"LineNum" : 49,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 523.09
+						}
+					},
+					{
+						"Amount" : 210.92,
+						"Description" : "Colyvan Pacific Ross Bay Landing  on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "53",
+						"LineNum" : 50,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 210.92
+						}
+					},
+					{
+						"Amount" : 185.69,
+						"Description" : "Colyvan Pacific1120 Richardson on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "54",
+						"LineNum" : 51,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 185.69
+						}
+					},
+					{
+						"Amount" : 1367.73,
+						"Description" : "Colyvan Pacific940 Reunion on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "55",
+						"LineNum" : 52,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 1367.73
+						}
+					},
+					{
+						"Amount" : 743.9,
+						"Description" : "Colyvan PacificGroupe Dermapure Inc on WS Clinic",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "56",
+						"LineNum" : 53,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 743.9
+						}
+					},
+					{
+						"Amount" : 239.94,
+						"Description" : "Colyvan PacificGroupe Dermapure Inc on WS Strata",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "57",
+						"LineNum" : 54,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 239.94
+						}
+					},
+					{
+						"Amount" : 229.19,
+						"Description" : "Colyvan PacificLampson Court on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "58",
+						"LineNum" : 55,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 229.19
+						}
+					},
+					{
+						"Amount" : 271.38,
+						"Description" : "Corcoran Financial Group LTD on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "59",
+						"LineNum" : 56,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 271.38
+						}
+					},
+					{
+						"Amount" : 179.58,
+						"Description" : "Cornerstone PropertiesCentennial Square on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "60",
+						"LineNum" : 57,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 179.58
+						}
+					},
+					{
+						"Amount" : 149.6,
+						"Description" : "Crawford & CO Canada Inc on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "61",
+						"LineNum" : 58,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 149.6
+						}
+					},
+					{
+						"Amount" : 126.64,
+						"Description" : "Cridge Centre for the Family on WS Office space",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "62",
+						"LineNum" : 59,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 126.64
+						}
+					},
+					{
+						"Amount" : 263.83,
+						"Description" : "Cridge Centre for the Family on WS Apartment common area",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "63",
+						"LineNum" : 60,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 263.83
+						}
+					},
+					{
+						"Amount" : 832.61,
+						"Description" : "Cridge Transition House and Outreach Services on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "64",
+						"LineNum" : 61,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 832.61
+						}
+					},
+					{
+						"Amount" : 203.74,
+						"Description" : "Dockside Stores on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "65",
+						"LineNum" : 62,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 203.74
+						}
+					},
+					{
+						"Amount" : 232.2,
+						"Description" : "Dowell's Moving & Storage Ltd on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "66",
+						"LineNum" : 63,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 232.2
+						}
+					},
+					{
+						"Amount" : 157.25,
+						"Description" : "Dr AttwellPope on WS 1 day",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "67",
+						"LineNum" : 64,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 157.25
+						}
+					},
+					{
+						"Amount" : 271.38,
+						"Description" : "Dr Scott on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "68",
+						"LineNum" : 65,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 271.38
+						}
+					},
+					{
+						"Amount" : 195.99,
+						"Description" : "Driftwood Court on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "69",
+						"LineNum" : 66,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 195.99
+						}
+					},
+					{
+						"Amount" : 188.1,
+						"Description" : "Eclipse360 on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "70",
+						"LineNum" : 67,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 188.1
+						}
+					},
+					{
+						"Amount" : 364.12,
+						"Description" : "ECS Electrical Cable Supply on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "71",
+						"LineNum" : 68,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 364.12
+						}
+					},
+					{
+						"Amount" : 250.87,
+						"Description" : "Edwards Electric on WS General janitorial revised",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "72",
+						"LineNum" : 69,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 250.87
+						}
+					},
+					{
+						"Amount" : 159.96,
+						"Description" : "Elan Data Makers on WS Revised Feb 2019",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "73",
+						"LineNum" : 70,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 159.96
+						}
+					},
+					{
+						"Amount" : 163.04,
+						"Description" : "Elizabeth May MP on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "74",
+						"LineNum" : 71,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 163.04
+						}
+					},
+					{
+						"Amount" : 271.37,
+						"Description" : "Encepta on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "75",
+						"LineNum" : 72,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 271.37
+						}
+					},
+					{
+						"Amount" : 135.69,
+						"Description" : "Encepta on WS Mid week touch up",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "76",
+						"LineNum" : 73,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 135.69
+						}
+					},
+					{
+						"Amount" : 163.58,
+						"Description" : "Expedia CruiseShip Centres (Shelbourne Street) on WS Main revised",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "77",
+						"LineNum" : 74,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 163.58
+						}
+					},
+					{
+						"Amount" : 293.09,
+						"Description" : "Facility Plus on WS Swarovski - Mayfair",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "78",
+						"LineNum" : 75,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 293.09
+						}
+					},
+					{
+						"Amount" : 1129.0,
+						"Description" : "FedEx Ground on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "79",
+						"LineNum" : 76,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 1129
+						}
+					},
+					{
+						"Amount" : 706.58,
+						"Description" : "FedEx Ground on WS Disinfect trucks - light touch",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "80",
+						"LineNum" : 77,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 706.58
+						}
+					},
+					{
+						"Amount" : 706.58,
+						"Description" : "FedEx Ground on WS Disinfect warehouse and scanners",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "81",
+						"LineNum" : 78,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 706.58
+						}
+					},
+					{
+						"Amount" : 444.8,
+						"Description" : "FedEx Ground on WS General Janitorial COVID EXTENDED",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "82",
+						"LineNum" : 79,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 444.8
+						}
+					},
+					{
+						"Amount" : 1093.92,
+						"Description" : "Finning (Canada) on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "83",
+						"LineNum" : 80,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 1093.92
+						}
+					},
+					{
+						"Amount" : 12.9,
+						"Description" : "Firm Management1195 Esquimalt on WS File Room Upper",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "84",
+						"LineNum" : 81,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Periodic Clean:Periodic Clean Sales",
+								"value" : "11"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 12.9
+						}
+					},
+					{
+						"Amount" : 12.9,
+						"Description" : "Firm Management1195 Esquimalt on WS File Room Lower",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "85",
+						"LineNum" : 82,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Periodic Clean:Periodic Clean Sales",
+								"value" : "11"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 12.9
+						}
+					},
+					{
+						"Amount" : 1637.44,
+						"Description" : "Firm Management1195 Esquimalt on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "86",
+						"LineNum" : 83,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 1637.44
+						}
+					},
+					{
+						"Amount" : 60.2,
+						"Description" : "Firm Management1195 Esquimalt Common Area on WS Floors Revised",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "87",
+						"LineNum" : 84,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Periodic Clean:Periodic Clean Sales",
+								"value" : "11"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 60.2
+						}
+					},
+					{
+						"Amount" : 185.76,
+						"Description" : "Firm Management1195 Esquimalt Common Area on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "88",
+						"LineNum" : 85,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 185.76
+						}
+					},
+					{
+						"Amount" : 297.26,
+						"Description" : "Firm Management1665 Oak Bay Ave on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "89",
+						"LineNum" : 86,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 297.26
+						}
+					},
+					{
+						"Amount" : 198.9,
+						"Description" : "Firm Management313 Cook St on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "90",
+						"LineNum" : 87,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 198.9
+						}
+					},
+					{
+						"Amount" : 1180.48,
+						"Description" : "Firm Management630 & 636 Montreal St on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "91",
+						"LineNum" : 88,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 1180.48
+						}
+					},
+					{
+						"Amount" : 331.96,
+						"Description" : "Firm ManagementCardiff Place on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "92",
+						"LineNum" : 89,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 331.96
+						}
+					},
+					{
+						"Amount" : 565.88,
+						"Description" : "Firm ManagementCorp Offices on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "93",
+						"LineNum" : 90,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 565.88
+						}
+					},
+					{
+						"Amount" : 629.43,
+						"Description" : "Firm ManagementFairway Green on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "94",
+						"LineNum" : 91,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 629.43
+						}
+					},
+					{
+						"Amount" : 215.0,
+						"Description" : "Firm ManagementGlen Eden Condominium on WS Glen Eden - Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "95",
+						"LineNum" : 92,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 215
+						}
+					},
+					{
+						"Amount" : 168.56,
+						"Description" : "Firm ManagementMt Newton Station (Common Area) on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "96",
+						"LineNum" : 93,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 168.56
+						}
+					},
+					{
+						"Amount" : 707.2,
+						"Description" : "Firm ManagementParry on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "97",
+						"LineNum" : 94,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 707.2
+						}
+					},
+					{
+						"Amount" : 1140.65,
+						"Description" : "Firm ManagementWaters' Edge on WS Main revised",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "98",
+						"LineNum" : 95,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Periodic Clean:Periodic Clean Sales",
+								"value" : "11"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 1140.65
+						}
+					},
+					{
+						"Amount" : 1085.5,
+						"Description" : "First Nations Health Authority on WS General Janitorial II",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "99",
+						"LineNum" : 96,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 1085.5
+						}
+					},
+					{
+						"Amount" : 631.57,
+						"Description" : "First Unitarian Church of Victoria on WS Sanctuary 2020",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "100",
+						"LineNum" : 97,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 631.57
+						}
+					},
+					{
+						"Amount" : 186.62,
+						"Description" : "FirstLight Technologies on WS New location",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "101",
+						"LineNum" : 98,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 186.62
+						}
+					},
+					{
+						"Amount" : 132.67,
+						"Description" : "Flatiron Constructors Canada Ltd on WS Lunchroom Trailers",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "102",
+						"LineNum" : 99,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 132.67
+						}
+					},
+					{
+						"Amount" : 241.22,
+						"Description" : "Flatiron Constructors Canada Ltd on WS Washcart cleaning",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "103",
+						"LineNum" : 100,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 241.22
+						}
+					},
+					{
+						"Amount" : 530.22,
+						"Description" : "Flatiron Constructors Canada Ltd on WS Office Trailers (3)",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "104",
+						"LineNum" : 101,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 530.22
+						}
+					},
+					{
+						"Amount" : 1809.17,
+						"Description" : "Global Village Victoria on WS Weekdays",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "105",
+						"LineNum" : 102,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 1809.17
+						}
+					},
+					{
+						"Amount" : 177.84,
+						"Description" : "Glotman Simpson Consulting Engineers on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "106",
+						"LineNum" : 103,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 177.84
+						}
+					},
+					{
+						"Amount" : 542.75,
+						"Description" : "GreatPacific Consulting Ltd on WS New location",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "107",
+						"LineNum" : 104,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 542.75
+						}
+					},
+					{
+						"Amount" : 149.07,
+						"Description" : "H&R Block on WS Tax Season 51195 E9711 5th St Sidney",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "108",
+						"LineNum" : 105,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Periodic Clean:Periodic Clean Sales",
+								"value" : "11"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 149.07
+						}
+					},
+					{
+						"Amount" : 144.73,
+						"Description" : "H&R Block on WS Tax Season 51309 6660 Sooke Rd",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "109",
+						"LineNum" : 106,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 144.7306
+						}
+					},
+					{
+						"Amount" : 148.2,
+						"Description" : "H&R Block on WS Tax Season 51284 104 - 2244 Sooke Rd",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "110",
+						"LineNum" : 107,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 148.2
+						}
+					},
+					{
+						"Amount" : 144.73,
+						"Description" : "H&R Block on WS Tax Season 51287 Bay Centre",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "111",
+						"LineNum" : 108,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 144.73
+						}
+					},
+					{
+						"Amount" : 144.73,
+						"Description" : "H&R Block on WS Tax Season 51268 West Shore Mall",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "112",
+						"LineNum" : 109,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 144.73
+						}
+					},
+					{
+						"Amount" : 148.2,
+						"Description" : "H&R Block on WS Tax Season 50830 905 Esquimalt Rd",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "113",
+						"LineNum" : 110,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 148.2
+						}
+					},
+					{
+						"Amount" : 351.23,
+						"Description" : "H&R Block on WS Tax Season 50829 754 Goldstream Rd",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "114",
+						"LineNum" : 111,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 351.23
+						}
+					},
+					{
+						"Amount" : 148.2,
+						"Description" : "H&R Block on WS Tax Season 51369 104 225 Menzies",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "115",
+						"LineNum" : 112,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 148.2
+						}
+					},
+					{
+						"Amount" : 148.2,
+						"Description" : "H&R Block on WS Tax Season 51196 7120 W. Saanich Rd",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "116",
+						"LineNum" : 113,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 148.2
+						}
+					},
+					{
+						"Amount" : 144.73,
+						"Description" : "H&R Block on WS Tax Season 51043 Tillicum Mall",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "117",
+						"LineNum" : 114,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 144.73
+						}
+					},
+					{
+						"Amount" : 148.2,
+						"Description" : "H&R Block on WS Tax Season 50828 F103-3551 Blanshard St.",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "118",
+						"LineNum" : 115,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 148.2
+						}
+					},
+					{
+						"Amount" : 289.47,
+						"Description" : "H&R Block on WS Tax Season 51270 1581 Hillside Ave",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "119",
+						"LineNum" : 116,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 289.47
+						}
+					},
+					{
+						"Amount" : 468.31,
+						"Description" : "H&R Block on WS Tax Season 50826 2001 Douglas St",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "120",
+						"LineNum" : 117,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 468.31
+						}
+					},
+					{
+						"Amount" : 148.2,
+						"Description" : "H&R Block on WS Tax Season 51267 1086 Fort St",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "121",
+						"LineNum" : 118,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 148.2
+						}
+					},
+					{
+						"Amount" : 144.73,
+						"Description" : "H&R Block on WS Tax Season 51183 Mayfair mall",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "122",
+						"LineNum" : 119,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 144.73
+						}
+					},
+					{
+						"Amount" : 228.68,
+						"Description" : "H&R Block on WS Off Season 50826 2001 Douglas St",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "123",
+						"LineNum" : 120,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 228.68
+						}
+					},
+					{
+						"Amount" : 81.41,
+						"Description" : "H&R Block on WS Off Season 51195 E9711 5th st Sidney",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "124",
+						"LineNum" : 121,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 81.41
+						}
+					},
+					{
+						"Amount" : 72.37,
+						"Description" : "H&R Block on WS Off Season 51270 1581 Hillside",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "125",
+						"LineNum" : 122,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 72.37
+						}
+					},
+					{
+						"Amount" : 81.41,
+						"Description" : "H&R Block on WS Off Season 50828 Uptown",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "126",
+						"LineNum" : 123,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 81.41
+						}
+					},
+					{
+						"Amount" : 222.3,
+						"Description" : "H&R Block on WS Off Season 51270 1581 Hillside",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "127",
+						"LineNum" : 124,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 222.3
+						}
+					},
+					{
+						"Amount" : 467.13,
+						"Description" : "Heritage Housec/o Newport Property Management on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "128",
+						"LineNum" : 125,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 467.13
+						}
+					},
+					{
+						"Amount" : 271.38,
+						"Description" : "Hilti (Canada) Ltd on WS 2330 Douglas",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "129",
+						"LineNum" : 126,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 271.38
+						}
+					},
+					{
+						"Amount" : 271.76,
+						"Description" : "HuttonInverness Court (Strata VIS 876) on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "130",
+						"LineNum" : 127,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 271.76
+						}
+					},
+					{
+						"Amount" : 532.34,
+						"Description" : "HuttonWoodstone PlaceVIS 495 on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "131",
+						"LineNum" : 128,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 532.34
+						}
+					},
+					{
+						"Amount" : 303.33,
+						"Description" : "Isl Select Office on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "132",
+						"LineNum" : 129,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 303.33
+						}
+					},
+					{
+						"Amount" : 176.11,
+						"Description" : "Island Office Equipment on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "133",
+						"LineNum" : 130,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 176.11
+						}
+					},
+					{
+						"Amount" : 250.5,
+						"Description" : "Island Orthodontics on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "134",
+						"LineNum" : 131,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 250.5
+						}
+					},
+					{
+						"Amount" : 250.5,
+						"Description" : "Island OrthodonticsSidney on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "135",
+						"LineNum" : 132,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 250.5
+						}
+					},
+					{
+						"Amount" : 881.42,
+						"Description" : "Itziar Management LtdBastion Square on WS Main Revised",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "136",
+						"LineNum" : 133,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 881.42
+						}
+					},
+					{
+						"Amount" : 213.28,
+						"Description" : "Itziar Management LtdBastion Square on WS Mid Day Refresh",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "137",
+						"LineNum" : 134,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 213.28
+						}
+					},
+					{
+						"Amount" : 1089.62,
+						"Description" : "James Bay New Horizons on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "138",
+						"LineNum" : 135,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 1089.62
+						}
+					},
+					{
+						"Amount" : 253.7,
+						"Description" : "Jasco Research Ltd on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "139",
+						"LineNum" : 136,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 253.7
+						}
+					},
+					{
+						"Amount" : 1043.38,
+						"Description" : "Jawl Properties1075 Pendergast on WS Revised 2022",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "140",
+						"LineNum" : 137,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 1043.38
+						}
+					},
+					{
+						"Amount" : 251.37,
+						"Description" : "Knights Insulation on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "141",
+						"LineNum" : 138,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 251.37
+						}
+					},
+					{
+						"Amount" : 420.77,
+						"Description" : "La Maison de la Francophonie on WS Revised 2021",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "142",
+						"LineNum" : 139,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 420.77
+						}
+					},
+					{
+						"Amount" : 165.12,
+						"Description" : "La Société Francophone de Victoria on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "143",
+						"LineNum" : 140,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 165.12
+						}
+					},
+					{
+						"Amount" : 144.73,
+						"Description" : "La Société Francophone de Victoria on WS Lower level",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "144",
+						"LineNum" : 141,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 144.73
+						}
+					},
+					{
+						"Amount" : 114.38,
+						"Description" : "Landmark Resource Management Ltd on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "145",
+						"LineNum" : 142,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 114.38
+						}
+					},
+					{
+						"Amount" : 897.05,
+						"Description" : "Langford Family Medicine on WS New clinic 835 Langford Parkway",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "146",
+						"LineNum" : 143,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 897.05
+						}
+					},
+					{
+						"Amount" : 705.58,
+						"Description" : "Level Ground Trading Ltd on WS Revise 2022",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "147",
+						"LineNum" : 144,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 705.58
+						}
+					},
+					{
+						"Amount" : 1085.5,
+						"Description" : "Lions Cove on WS Twice Weekly",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "148",
+						"LineNum" : 145,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 1085.5
+						}
+					},
+					{
+						"Amount" : 271.38,
+						"Description" : "Magre Law on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "149",
+						"LineNum" : 146,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 271.38
+						}
+					},
+					{
+						"Amount" : 203.53,
+						"Description" : "MarineLabs on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "150",
+						"LineNum" : 147,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 203.53
+						}
+					},
+					{
+						"Amount" : 177.84,
+						"Description" : "Marlin Travel on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "151",
+						"LineNum" : 148,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 177.84
+						}
+					},
+					{
+						"Amount" : 166.9,
+						"Description" : "Maximum Express Courier & Freight Ltd on WS janitorial 2023",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "152",
+						"LineNum" : 149,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 166.9
+						}
+					},
+					{
+						"Amount" : 164.26,
+						"Description" : "Mercy Ships on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "153",
+						"LineNum" : 150,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 164.26
+						}
+					},
+					{
+						"Amount" : 148.2,
+						"Description" : "Method Engineering on WS Expansion",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "154",
+						"LineNum" : 151,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 148.2
+						}
+					},
+					{
+						"Amount" : 126.68,
+						"Description" : "Method Engineering on WS General Janitorial revised",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "155",
+						"LineNum" : 152,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 126.68
+						}
+					},
+					{
+						"Amount" : 125.8,
+						"Description" : "Metro Testing + Engineering Ltd on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "156",
+						"LineNum" : 153,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 125.8
+						}
+					},
+					{
+						"Amount" : 189.96,
+						"Description" : "MICA Controls Ltd on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "157",
+						"LineNum" : 154,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 189.96
+						}
+					},
+					{
+						"Amount" : 176.23,
+						"Description" : "Midas on WS General Janitorial 2022",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "158",
+						"LineNum" : 155,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 176.23
+						}
+					},
+					{
+						"Amount" : 194.6,
+						"Description" : "Midgard Manor on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "159",
+						"LineNum" : 156,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 194.6
+						}
+					},
+					{
+						"Amount" : 356.59,
+						"Description" : "Milroy Engineering Ltd on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "160",
+						"LineNum" : 157,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 356.59
+						}
+					},
+					{
+						"Amount" : 66.8,
+						"Description" : "Mother Computers on WS Monthly dusting",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "161",
+						"LineNum" : 158,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Periodic Clean:Periodic Clean Sales",
+								"value" : "11"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 66.8
+						}
+					},
+					{
+						"Amount" : 182.36,
+						"Description" : "Mother Computers on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "162",
+						"LineNum" : 159,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 182.36
+						}
+					},
+					{
+						"Amount" : 523.86,
+						"Description" : "Motus Design Group Ltd on WS Revised 2024",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "163",
+						"LineNum" : 160,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 523.86
+						}
+					},
+					{
+						"Amount" : 271.38,
+						"Description" : "MultiVista Victoria on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "164",
+						"LineNum" : 161,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 271.38
+						}
+					},
+					{
+						"Amount" : 241.04,
+						"Description" : "Neudorff on WS New location",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "165",
+						"LineNum" : 162,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 241.04
+						}
+					},
+					{
+						"Amount" : 237.71,
+						"Description" : "Newport RealtyBellwood on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "166",
+						"LineNum" : 163,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 237.71
+						}
+					},
+					{
+						"Amount" : 155.66,
+						"Description" : "NIL Tu O on WS Unit 6",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "167",
+						"LineNum" : 164,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 155.66
+						}
+					},
+					{
+						"Amount" : 342.28,
+						"Description" : "NIL Tu O on WS Unit 7",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "168",
+						"LineNum" : 165,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 342.28
+						}
+					},
+					{
+						"Amount" : 166.84,
+						"Description" : "NIL Tu O on WS Unit 5",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "169",
+						"LineNum" : 166,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 166.84
+						}
+					},
+					{
+						"Amount" : 163.97,
+						"Description" : "NIL Tu O on WS Unit 4",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "170",
+						"LineNum" : 167,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 163.97
+						}
+					},
+					{
+						"Amount" : 291.63,
+						"Description" : "NIL Tu O on WS Extra sanitizing, main, unit 6 & 7",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "171",
+						"LineNum" : 168,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 291.63
+						}
+					},
+					{
+						"Amount" : 521.73,
+						"Description" : "NIL Tu O on WS Main Revised",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "172",
+						"LineNum" : 169,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 521.73
+						}
+					},
+					{
+						"Amount" : 2657.89,
+						"Description" : "NRC Dominion Astrophysical Observatory on WS General Janitorial (Hubert)",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "173",
+						"LineNum" : 170,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Periodic Clean:Periodic Clean Sales",
+								"value" : "11"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 2657.89
+						}
+					},
+					{
+						"Amount" : 2657.89,
+						"Description" : "NRC Dominion Astrophysical Observatory on WS General janitorial (Rowell)",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "174",
+						"LineNum" : 171,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 2657.89
+						}
+					},
+					{
+						"Amount" : 1772.98,
+						"Description" : "Oak Street Dental on WS Oak Street Dental",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "175",
+						"LineNum" : 172,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 1772.98
+						}
+					},
+					{
+						"Amount" : 294.12,
+						"Description" : "Oakwood Property Management 555 Chatham Strata on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "176",
+						"LineNum" : 173,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 294.12
+						}
+					},
+					{
+						"Amount" : 125.04,
+						"Description" : "Ocean Concrete on WS Office Revised",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "177",
+						"LineNum" : 174,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Periodic Clean:Periodic Clean Sales",
+								"value" : "11"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 125.04
+						}
+					},
+					{
+						"Amount" : 70.47,
+						"Description" : "Ocean Concrete on WS The Plant Revised",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "178",
+						"LineNum" : 175,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 70.47
+						}
+					},
+					{
+						"Amount" : 211.03,
+						"Description" : "Ocean Concrete on WS Truck Bay Revised",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "179",
+						"LineNum" : 176,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 211.03
+						}
+					},
+					{
+						"Amount" : 578.93,
+						"Description" : "Open Ocean Robotics on WS Main Erie St",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "180",
+						"LineNum" : 177,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 578.93
+						}
+					},
+					{
+						"Amount" : 94.98,
+						"Description" : "Out of the Blue Designs on WS Washroom refresh",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "181",
+						"LineNum" : 178,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Periodic Clean:Periodic Clean Sales",
+								"value" : "11"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 94.98
+						}
+					},
+					{
+						"Amount" : 316.48,
+						"Description" : "Out of the Blue Designs on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "182",
+						"LineNum" : 179,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 316.48
+						}
+					},
+					{
+						"Amount" : 177.84,
+						"Description" : "Pacific Controls Ltd on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "183",
+						"LineNum" : 180,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 177.84
+						}
+					},
+					{
+						"Amount" : 240.8,
+						"Description" : "Pacific Opera Victoria on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "184",
+						"LineNum" : 181,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 240.8
+						}
+					},
+					{
+						"Amount" : 964.06,
+						"Description" : "Paladin Technologies on WS Revised General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "185",
+						"LineNum" : 182,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 964.06
+						}
+					},
+					{
+						"Amount" : 4132.47,
+						"Description" : "Parkway Dental on WS monday thru Friday",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "186",
+						"LineNum" : 183,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 4132.47
+						}
+					},
+					{
+						"Amount" : 572.7,
+						"Description" : "Payne's Marine Group on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "187",
+						"LineNum" : 184,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 572.7
+						}
+					},
+					{
+						"Amount" : 1273.66,
+						"Description" : "PCRM on WS 5 Days a Week",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "188",
+						"LineNum" : 185,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 1273.66
+						}
+					},
+					{
+						"Amount" : 271.38,
+						"Description" : "Pemberton Holmes Ltd 9710 Second St on WS General janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "189",
+						"LineNum" : 186,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 271.38
+						}
+					},
+					{
+						"Amount" : 320.0,
+						"Description" : "Peninsula Dental Centre on WS Revised 2021",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "190",
+						"LineNum" : 187,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 320
+						}
+					},
+					{
+						"Amount" : 424.84,
+						"Description" : "Portside Condominiums on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "191",
+						"LineNum" : 188,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 424.84
+						}
+					},
+					{
+						"Amount" : 742.77,
+						"Description" : "Proline Management LtdRMFC Water's Edge on WS Main Revised 2023",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "192",
+						"LineNum" : 189,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 742.77
+						}
+					},
+					{
+						"Amount" : 126.64,
+						"Description" : "Proline Management LtdRMFC Water's Edge on WS Pool Deck 2023",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "193",
+						"LineNum" : 190,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 126.64
+						}
+					},
+					{
+						"Amount" : 1118.34,
+						"Description" : "Proline ManagementSkyline Place on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "194",
+						"LineNum" : 191,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 1118.34
+						}
+					},
+					{
+						"Amount" : 54.35,
+						"Description" : "Proline MgtThe UrbanVIS5587 on WS Extended Services",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "195",
+						"LineNum" : 192,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Periodic Clean:Periodic Clean Sales",
+								"value" : "11"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 54.35
+						}
+					},
+					{
+						"Amount" : 446.34,
+						"Description" : "Proline MgtThe UrbanVIS5587 on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "196",
+						"LineNum" : 193,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 446.34
+						}
+					},
+					{
+						"Amount" : 265.1,
+						"Description" : "Provincial Health Services Authority on WS twice a week",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "197",
+						"LineNum" : 194,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 265.1
+						}
+					},
+					{
+						"Amount" : 447.95,
+						"Description" : "Quadra Village Neighborhood Gym on WS Spring 2021",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "198",
+						"LineNum" : 195,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 447.95
+						}
+					},
+					{
+						"Amount" : 1634.12,
+						"Description" : "Quester Tangent on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "199",
+						"LineNum" : 196,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 1634.12
+						}
+					},
+					{
+						"Amount" : 291.54,
+						"Description" : "Richelieu Panel Products on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "200",
+						"LineNum" : 197,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 291.54
+						}
+					},
+					{
+						"Amount" : 283.8,
+						"Description" : "Richmond Property GroupRockland VIS 434 on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "201",
+						"LineNum" : 198,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 283.8
+						}
+					},
+					{
+						"Amount" : 253.3,
+						"Description" : "Richmond Property GroupVela by the Sea on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "202",
+						"LineNum" : 199,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 253.3
+						}
+					},
+					{
+						"Amount" : 333.44,
+						"Description" : "Roseland Family Dental on WS General Janitorial 2 Days",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "203",
+						"LineNum" : 200,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 333.44
+						}
+					},
+					{
+						"Amount" : 1139.78,
+						"Description" : "Royal Bay Dental on WS 3 days/week",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "204",
+						"LineNum" : 201,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 1139.78
+						}
+					},
+					{
+						"Amount" : 497.47,
+						"Description" : "Ruffell & Brown Interiors on WS Main 2020",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "205",
+						"LineNum" : 202,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 497.47
+						}
+					},
+					{
+						"Amount" : 400.71,
+						"Description" : "Russell Food Equipment Ltd on WS Revised 2022",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "206",
+						"LineNum" : 203,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 400.71
+						}
+					},
+					{
+						"Amount" : 1233.51,
+						"Description" : "Saanich Baptist Church on WS Wilkinson Road",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "207",
+						"LineNum" : 204,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 1233.51
+						}
+					},
+					{
+						"Amount" : 327.91,
+						"Description" : "Saanich Baptist Church on WS Wallace drive",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "208",
+						"LineNum" : 205,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 327.91
+						}
+					},
+					{
+						"Amount" : 49.83,
+						"Description" : "Saanich Seed Orchard on WS Windows 2021/2022",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "209",
+						"LineNum" : 206,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Periodic Clean:Periodic Clean Sales",
+								"value" : "11"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 49.83
+						}
+					},
+					{
+						"Amount" : 38.37,
+						"Description" : "Saanich Seed Orchard on WS Carpets 2021/2022",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "210",
+						"LineNum" : 207,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Periodic Clean:Periodic Clean Sales",
+								"value" : "11"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 38.37
+						}
+					},
+					{
+						"Amount" : 222.66,
+						"Description" : "Saanich Seed Orchard on WS Floors 2022",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "211",
+						"LineNum" : 208,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Periodic Clean:Periodic Clean Sales",
+								"value" : "11"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 222.66
+						}
+					},
+					{
+						"Amount" : 305.3,
+						"Description" : "Saanich Seed Orchard on WS Main 2022",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "212",
+						"LineNum" : 209,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 305.3
+						}
+					},
+					{
+						"Amount" : 645.0,
+						"Description" : "Scotia McLeod on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "213",
+						"LineNum" : 210,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 645
+						}
+					},
+					{
+						"Amount" : 365.21,
+						"Description" : "Send to News on WS 56 Bastion - Option 2 Revised",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "214",
+						"LineNum" : 211,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 365.21
+						}
+					},
+					{
+						"Amount" : 219.13,
+						"Description" : "Send to News on WS Extra time 2020 revised",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "215",
+						"LineNum" : 212,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 219.13
+						}
+					},
+					{
+						"Amount" : 1440.38,
+						"Description" : "Seyem Qwantlen Development LP on WS Hope - Raab St Revised",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "216",
+						"LineNum" : 213,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 1440.375
+						}
+					},
+					{
+						"Amount" : 822.48,
+						"Description" : "Seyem Qwantlen Development LP on WS Chilliwack - Lickman Road",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "217",
+						"LineNum" : 214,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 822.475
+						}
+					},
+					{
+						"Amount" : 458.76,
+						"Description" : "Smart Dolphins  on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "218",
+						"LineNum" : 215,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 458.76
+						}
+					},
+					{
+						"Amount" : 134.16,
+						"Description" : "South Coast Electric on WS New premises - Frances Ave",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "219",
+						"LineNum" : 216,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 134.16
+						}
+					},
+					{
+						"Amount" : 1537.79,
+						"Description" : "Specific Mechanical Systems Ltd on WS Revised",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "220",
+						"LineNum" : 217,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 1537.79
+						}
+					},
+					{
+						"Amount" : 316.48,
+						"Description" : "Stantec on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "221",
+						"LineNum" : 218,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 316.48
+						}
+					},
+					{
+						"Amount" : 359.06,
+						"Description" : "Stantec on WS COVID revised",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "222",
+						"LineNum" : 219,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 359.06
+						}
+					},
+					{
+						"Amount" : 814.13,
+						"Description" : "Summit Facility Solutions on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "223",
+						"LineNum" : 220,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 814.13
+						}
+					},
+					{
+						"Amount" : 113.52,
+						"Description" : "Sunrise Court on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "224",
+						"LineNum" : 221,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 113.52
+						}
+					},
+					{
+						"Amount" : 738.74,
+						"Description" : "Tecnet Canada on WS Revised 2023",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "225",
+						"LineNum" : 222,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 738.74
+						}
+					},
+					{
+						"Amount" : 271.39,
+						"Description" : "Telus Health (Canada) Ltd on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "226",
+						"LineNum" : 223,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 271.39
+						}
+					},
+					{
+						"Amount" : 889.2,
+						"Description" : "Telus Health Solutions Inc on WS Revised 2022",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "227",
+						"LineNum" : 224,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 889.2
+						}
+					},
+					{
+						"Amount" : 132.6,
+						"Description" : "The Rosewood on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "228",
+						"LineNum" : 225,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 132.6
+						}
+					},
+					{
+						"Amount" : 180.6,
+						"Description" : "The Wright Brothers Financial Services Inc on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "229",
+						"LineNum" : 226,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 180.6
+						}
+					},
+					{
+						"Amount" : 271.38,
+						"Description" : "Thomas and Birch on WS Douglas Rd",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "230",
+						"LineNum" : 227,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 271.38
+						}
+					},
+					{
+						"Amount" : 657.38,
+						"Description" : "Thurber Engineering Ltd on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "231",
+						"LineNum" : 228,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 657.38
+						}
+					},
+					{
+						"Amount" : 417.61,
+						"Description" : "Titan Boats on WS New space revised",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "232",
+						"LineNum" : 229,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 417.61
+						}
+					},
+					{
+						"Amount" : 464.33,
+						"Description" : "TPM PropertiesTwin Gables on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "233",
+						"LineNum" : 230,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 464.33
+						}
+					},
+					{
+						"Amount" : 170.28,
+						"Description" : "Triad Signs on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "234",
+						"LineNum" : 231,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 170.28
+						}
+					},
+					{
+						"Amount" : 687.66,
+						"Description" : "Troy Life & Fire Safety Ltd on WS New Premises",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "235",
+						"LineNum" : 232,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 687.66
+						}
+					},
+					{
+						"Amount" : 898.7,
+						"Description" : "Tsawout Wellness Dept on WS 7725",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "236",
+						"LineNum" : 233,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 898.7
+						}
+					},
+					{
+						"Amount" : 361.83,
+						"Description" : "Tsawout Wellness Dept on WS off day touch up",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "237",
+						"LineNum" : 234,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 361.83
+						}
+					},
+					{
+						"Amount" : 563.15,
+						"Description" : "Tyresense (a division of Rimex Supply Ltd) on WS Revised July 2020",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "238",
+						"LineNum" : 235,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 563.15
+						}
+					},
+					{
+						"Amount" : 433.0,
+						"Description" : "Ugly Duckling Nails Inc on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "239",
+						"LineNum" : 236,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 433
+						}
+					},
+					{
+						"Amount" : 271.38,
+						"Description" : "Unifor Local 333BC on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "240",
+						"LineNum" : 237,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Periodic Clean:Periodic Clean Sales",
+								"value" : "11"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 271.38
+						}
+					},
+					{
+						"Amount" : 33.53,
+						"Description" : "Union of BC Municipalities on WS Monthly Tasks 2019",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "241",
+						"LineNum" : 238,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Periodic Clean:Periodic Clean Sales",
+								"value" : "11"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 33.53
+						}
+					},
+					{
+						"Amount" : 434.42,
+						"Description" : "Union of BC Municipalities on WS Main 2019",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "242",
+						"LineNum" : 239,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 434.42
+						}
+					},
+					{
+						"Amount" : 132.6,
+						"Description" : "Upper Canada Forest Products on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "243",
+						"LineNum" : 240,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 132.6
+						}
+					},
+					{
+						"Amount" : 177.84,
+						"Description" : "Velocity Projects on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "244",
+						"LineNum" : 241,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 177.84
+						}
+					},
+					{
+						"Amount" : 2027.96,
+						"Description" : "Vernon Dental Centre on WS Monday thru Thursday",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "245",
+						"LineNum" : 242,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 2027.9562
+						}
+					},
+					{
+						"Amount" : 2362.22,
+						"Description" : "Vic West Community Centre on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "246",
+						"LineNum" : 243,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 2362.22
+						}
+					},
+					{
+						"Amount" : 69.6,
+						"Description" : "VicinoStrata on WS General Janitorial Monthly",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "247",
+						"LineNum" : 244,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Periodic Clean:Periodic Clean Sales",
+								"value" : "11"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 69.6
+						}
+					},
+					{
+						"Amount" : 415.83,
+						"Description" : "VicinoStrata on WS General Janitorial Primary",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "248",
+						"LineNum" : 245,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 415.83
+						}
+					},
+					{
+						"Amount" : 993.65,
+						"Description" : "VicinoStrata on WS General Janitorial Maintenance",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "249",
+						"LineNum" : 246,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 993.65
+						}
+					},
+					{
+						"Amount" : 1880.63,
+						"Description" : "Victoria Academy of Ballet on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "250",
+						"LineNum" : 247,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 1880.63
+						}
+					},
+					{
+						"Amount" : 542.75,
+						"Description" : "Victoria Chinese Alliance Church on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "251",
+						"LineNum" : 248,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 542.75
+						}
+					},
+					{
+						"Amount" : 343.79,
+						"Description" : "Victoria Hospice Society on WS Main",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "252",
+						"LineNum" : 249,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 343.79
+						}
+					},
+					{
+						"Amount" : 576.52,
+						"Description" : "Victoria Specialty Hardware on WS 2024 Revised",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "253",
+						"LineNum" : 250,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 576.52
+						}
+					},
+					{
+						"Amount" : 239.94,
+						"Description" : "Victoria Vision & Eye Care Ctr on WS Revised 2017",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "254",
+						"LineNum" : 251,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 239.94
+						}
+					},
+					{
+						"Amount" : 161.62,
+						"Description" : "Vision Travel DT OntarioWest Inc on WS Revised",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "255",
+						"LineNum" : 252,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 161.62
+						}
+					},
+					{
+						"Amount" : 467.95,
+						"Description" : "Western Canadian Marine Response on WS once per week",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "256",
+						"LineNum" : 253,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 467.95
+						}
+					},
+					{
+						"Amount" : 271.38,
+						"Description" : "William Wright Commercial Inc on WS General Janitorial 1 day a week",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "257",
+						"LineNum" : 254,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 271.38
+						}
+					},
+					{
+						"Amount" : 1356.88,
+						"Description" : "WorkBC Centre Westshore on WS Weekdays",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "258",
+						"LineNum" : 255,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 1356.88
+						}
+					},
+					{
+						"Amount" : 81.41,
+						"Description" : "H&R Block on WS Off Season 51309 6660 Sooke Rd",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "259",
+						"LineNum" : 256,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 81.4125
+						}
+					},
+					{
+						"Amount" : 171.51,
+						"Description" : "H&R Block on WS Off Season 50829 754 Goldstream Rd",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "260",
+						"LineNum" : 257,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 171.51
+						}
+					},
+					{
+						"Amount" : 818.78,
+						"Description" : "1440 Beach Drive on WS General Janitorial",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "261",
+						"LineNum" : 258,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Commercial Cleaning:Regular Clean:Regular Clean Sales",
+								"value" : "2"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 818.78
+						}
+					},
+					{
+						"Amount" : 117088.6,
+						"DetailType" : "SubTotalLineDetail",
+						"SubTotalLineDetail" : {}
+					}
+				],
+				"LinkedTxn" : [],
+				"ShipAddr" : 
+				{
+					"Id" : "1840"
+				},
+				"TxnDate" : "2025-05-01",
+				"TxnTaxDetail" : 
+				{
+					"TotalTax" : 5813.65
+				},
+				"sparse" : true
+			},
+			{
+				"BillAddr" : 
+				{
+					"Id" : "1764"
+				},
+				"CustomerRef" : 
+				{
+					"name" : "BCCFU",
+					"value" : "462"
+				},
+				"Id" : "5604",
+				"Line" : 
+				[
+					{
+						"Amount" : 20.0,
+						"Description" : "Support",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "1",
+						"LineNum" : 1,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Development Income:Development CAD",
+								"value" : "3"
+							},
+							"Qty" : 0.2,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 100
+						}
+					},
+					{
+						"Amount" : 20.0,
+						"DetailType" : "SubTotalLineDetail",
+						"SubTotalLineDetail" : {}
+					}
+				],
+				"LinkedTxn" : [],
+				"ShipAddr" : 
+				{
+					"Id" : "1764"
+				},
+				"TxnDate" : "2025-05-01",
+				"TxnTaxDetail" : 
+				{
+					"TotalTax" : 1.0
+				},
+				"sparse" : true
+			},
+			{
+				"BillAddr" : 
+				{
+					"Id" : "1763"
+				},
+				"CustomerRef" : 
+				{
+					"name" : "Vertical Edge",
+					"value" : "461"
+				},
+				"Id" : "5603",
+				"Line" : 
+				[
+					{
+						"Amount" : 500.0,
+						"Description" : "Business Coaching - Monthly Service",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "1",
+						"LineNum" : 1,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Development Income:Development CAD",
+								"value" : "3"
+							},
+							"Qty" : 0.5,
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 1000
+						}
+					},
+					{
+						"Amount" : 500.0,
+						"DetailType" : "SubTotalLineDetail",
+						"SubTotalLineDetail" : {}
+					}
+				],
+				"LinkedTxn" : [],
+				"ShipAddr" : 
+				{
+					"Id" : "1763"
+				},
+				"TxnDate" : "2025-05-01",
+				"TxnTaxDetail" : 
+				{
+					"TotalTax" : 25.0
+				},
+				"sparse" : true
+			},
+			{
+				"BillAddr" : 
+				{
+					"Id" : "177"
+				},
+				"CustomerRef" : 
+				{
+					"name" : "MacSpec Inc.",
+					"value" : "140"
+				},
+				"Id" : "5602",
+				"Line" : 
+				[
+					{
+						"Amount" : 1350.0,
+						"Description" : "Project Deposit",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "1",
+						"LineNum" : 1,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Development Income:Development USD",
+								"value" : "7"
+							},
+							"Qty" : 1,
+							"TaxCodeRef" : 
+							{
+								"value" : "3"
+							},
+							"UnitPrice" : 1350
+						}
+					},
+					{
+						"Amount" : 1350.0,
+						"DetailType" : "SubTotalLineDetail",
+						"SubTotalLineDetail" : {}
+					}
+				],
+				"LinkedTxn" : [],
+				"ShipAddr" : 
+				{
+					"Id" : "1765"
+				},
+				"TxnDate" : "2025-05-01",
+				"TxnTaxDetail" : 
+				{
+					"TotalTax" : 0
+				},
+				"sparse" : true
+			},
+			{
+				"CustomerRef" : 
+				{
+					"name" : "Edgardo Pangilinan",
+					"value" : "339"
+				},
+				"Id" : "5716",
+				"Line" : 
+				[
+					{
+						"Amount" : 80.0,
+						"Description" : "Edgardo Pangilinan Admin Fee",
+						"DetailType" : "SalesItemLineDetail",
+						"Id" : "1",
+						"LineNum" : 1,
+						"SalesItemLineDetail" : 
+						{
+							"ItemRef" : 
+							{
+								"name" : "Cleaning Income:Franchise Income:Admin Fee Income",
+								"value" : "33"
+							},
+							"Qty" : 1,
+							"ServiceDate" : "2025-05-01",
+							"TaxCodeRef" : 
+							{
+								"value" : "4"
+							},
+							"UnitPrice" : 80
+						}
+					},
+					{
+						"Amount" : 80.0,
+						"DetailType" : "SubTotalLineDetail",
+						"SubTotalLineDetail" : {}
+					}
+				],
+				"LinkedTxn" : [],
+				"ShipAddr" : 
+				{
+					"Id" : "398"
+				},
+				"TxnDate" : "2025-05-06",
+				"TxnTaxDetail" : 
+				{
+					"TotalTax" : 4.0
+				},
+				"sparse" : true
+			}
+		],
+		"maxResults" : 31,
+		"startPosition" : 1,
+		"totalCount" : 31
+	},
+	"time" : "2025-05-15T22:21:21.688-07:00"
+}
